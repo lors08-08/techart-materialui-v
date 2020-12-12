@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/techart-materialui.iml" filepath="$PROJECT_DIR$/.idea/techart-materialui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../techart-testhh-3/.idea/techart-testhh-3.iml" filepath="$PROJECT_DIR$/../techart-testhh-3/.idea/techart-testhh-3.iml" />
     </modules>
   </component>
 </project>
